@@ -1110,7 +1110,7 @@
 
 
 
-/*CSS of the html*/
+/* WEBSITE CSS */
 
 /* ALL PAGES */
 a{
@@ -1125,7 +1125,7 @@ a:hover{
 body {
 	/*background-color: #E3D69A;*/ /*milk tea color*/
 	background-color: white;
-	
+
 }
 
 #banner {
@@ -1180,7 +1180,7 @@ h2.pageHeading {
 	font-size: 35px;
 	margin: auto;
 	padding:10px;
-	
+
 }
 
 /* HOME PAGE ONLY */
